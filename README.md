@@ -1,7 +1,6 @@
 # Movie-recommender-systems-
 
-This was an exercise that i've made during my Msc at Skema. 
+This project is one I’ve made during my Msc at Skema. 
 
-First part consist of analyzing the data and cleaning it. 
-
-Second part is the elaboration of the recommender system.
+The goal was to build a recommender system from a dataframe made up of user ratings for a wide selection of films.
+First part is dedicated to clean and prepare the data. Second and third parts are dedicated to the realization of the recommender system. 
